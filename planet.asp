@@ -1,4 +1,5 @@
-<ValCurs Date="03.02.2023" name="Planet Showdown">
+<?xml version = "1.0" encoding="windows-1251"?>
+<Planetos Date="03.02.2023" name="Planet Showdown">
 </Valute>
 <Planet ID="R01020A">
 <NumCode>1</NumCode>
@@ -21,3 +22,4 @@
 <Name>Asteroid field</Name>
 <Value>18,4115</Value>
 </Valute>
+</Planetos>
